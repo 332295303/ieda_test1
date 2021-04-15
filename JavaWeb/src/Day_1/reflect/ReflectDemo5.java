@@ -22,7 +22,7 @@ public class ReflectDemo5 {
         Object o = aClass.newInstance();
         Method method = aClass.getMethod(methodName);
         method.invoke(o);
-        System.out.println("nihhao   git hub  ");
+        System.out.println("nihhao   git hub  saaasdas");
 
     }
 }
